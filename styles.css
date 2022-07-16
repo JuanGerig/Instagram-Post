@@ -1,0 +1,42 @@
+body {
+    margin-top: 30px;
+    background-color: black;
+}
+.post {
+    width: 400px;
+    height: 550px;
+    background-color: white;
+    margin: auto;
+}
+.post-header {
+    display: flex;
+    padding: 10px;
+    padding-bottom: 0;
+    height: 40px;
+}
+.post-header i {
+    padding-right: 5px;
+    font-size: xx-large;
+}
+.post-header p {
+ margin-top: 0;
+ width: 400px;
+}
+.post-image img {
+    width: 400px;
+}
+.tool-bar i {
+    font-size: xx-large;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+.fa-regular.fa-paper-plane {
+    width: 250px;
+}
+.post-bottom {
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+*p {
+    font-family: 'roboto', sans-seri;
+}
